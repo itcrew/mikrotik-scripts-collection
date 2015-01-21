@@ -1,0 +1,9 @@
+[submodule "martinclaro-mikrotik"]
+	path = martinclaro-mikrotik
+	url = git@github.com:martinclaro/mikrotik.git
+[submodule "xpegenaute-Mikrotik"]
+	path = xpegenaute-Mikrotik
+	url = git@github.com:xpegenaute/Mikrotik.git
+[submodule "denvera-mikrotik"]
+	path = denvera-mikrotik
+	url = git@github.com:denvera/mikrotik.git
